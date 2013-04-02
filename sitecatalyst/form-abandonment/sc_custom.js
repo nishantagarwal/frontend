@@ -1,5 +1,6 @@
 /**
-*   @desc   sample code for tracking user abandonment on web forms.
+*   @desc   sample code for tracking user abandonment on web forms. 
+            It helps to track the field which was last accessed before user exited/dropped from the page.
 *   @author Nishant Agarwal agarwal.nishant07@gmail.com
 **/
 
